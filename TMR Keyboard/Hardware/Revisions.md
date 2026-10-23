@@ -1,5 +1,6 @@
 # MacroPad
 ## Version: 1.0.0
+<img width="3768" height="5344" alt="Chip image" src="https://github.com/user-attachments/assets/da08b658-37a1-46f9-9826-5616ad4b911a" />
 This version was the first version of the board developed. This board used a STM32F072VB microcontroller.
 
 Daniel's boo boos:
